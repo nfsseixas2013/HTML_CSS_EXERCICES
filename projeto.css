@@ -1,0 +1,36 @@
+
+body{
+  background-color: #050a30;
+  color: white;
+  text-align: center;
+  border: 60px solid #385946;
+  border-top: 0px;
+  margin: 0px;
+}
+
+p{
+  color: white;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+h2{
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#submit01{
+  background-color:  #FFD700;
+  border-radius: 25px;
+  width: 150px;
+  height: 80px;
+  font-size: 1.5em;
+  margin-top: 15px;
+  margin-bottom: 4px;
+}
